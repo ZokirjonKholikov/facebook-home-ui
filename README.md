@@ -14,8 +14,8 @@
     Screenshots
 </h3>
 <p align="center">
-  <img src="screenshots/facebook.jpg" width="200">
-  <img src="screenshots/facebook-1.jpg" width="200">
+  <img src="screenshots/facebook.jpg" width="250"> &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/facebook-1.jpg" width="250">
 </p>
 
 ## Technologies
