@@ -1,5 +1,5 @@
 <h1 align="center">
-    Facebook Home 
+    Facebook Home Clone
 </h1>
 
 <p align="center">
