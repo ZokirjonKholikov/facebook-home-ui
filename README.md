@@ -7,6 +7,14 @@
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github.com/xoliqov-zokirjon/facebook-home-ui/screenshots/facebook.jpg" width="350" title="Facebook Home Clone">
+  <img src="https://github.com/xoliqov-zokirjon/facebook-home-ui/screenshots/facebook-1.jpg" width="350" alt="Facebook Home Clone">
+</p>
+
 ## Technologies
 
 This project was developed with the following technologies:
