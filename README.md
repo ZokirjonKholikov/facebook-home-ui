@@ -10,9 +10,12 @@
 <br>
 <br>
 
+<h3 align="center">
+    Screenshots
+</h3>
 <p align="center">
-  <img src="https://github.com/xoliqov-zokirjon/facebook-home-ui/screenshots/facebook.jpg" width="350" title="Facebook Home Clone">
-  <img src="https://github.com/xoliqov-zokirjon/facebook-home-ui/screenshots/facebook-1.jpg" width="350" alt="Facebook Home Clone">
+  <img src="screenshots/facebook.jpg" width="200">
+  <img src="screenshots/facebook-1.jpg" width="200">
 </p>
 
 ## Technologies
